@@ -1,1 +1,1 @@
-My firts GIT Bash script
+My first GIT Bash
